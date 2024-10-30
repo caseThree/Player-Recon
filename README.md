@@ -3,6 +3,7 @@ Player Recon to have better valorant games
 
 Steps: 
 
+0. Go to Releases on the right side
 1. Download player-recon setup
 2. Install the setup and continue anyway(its a safe app)
 3. Open the app, it will auto refresh every 7 seconds and you can see hidden names of players not visible anywhere
